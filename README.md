@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **Data Analysis and Machine Learning projects**
 
-- 🤝 I’m looking for help with **Frontend for ML automation website**
+- 🤝 I’m looking for help with **Frontend developer for ML automation website**
 
 - 👨‍💻 All of my projects are available at [https://github.com/sahil-2307?tab=repositories](https://github.com/sahil-2307?tab=repositories)
 
